@@ -3,7 +3,7 @@ this repo aim to reproduce the OpenAI use cases.
 
 
 
-```openai_character_count.py```
+```python openai_character_count.py filename```
 
 Counts no.of characters and the cost of Audio models. 
 
